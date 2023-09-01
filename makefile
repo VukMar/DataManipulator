@@ -1,6 +1,7 @@
 # Specify the compiler and flags
 CXX = g++
-VUI_PATH = "D:\VS Code Vuk\C++\SFMLUI"
+# Specify the path to the SFMLUI(VUI) library
+VUI_PATH = "D:\VS Code Vuk\C++\SFMLUI" 
 
 LIBS = -lV-UI -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system -lcomdlg32
 
